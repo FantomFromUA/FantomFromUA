@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Erik Toroni</h1>
-<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="codding" align="right" width="480"/>
+<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="codding" align="right" width="300"/>
 
 - 🔭 I’m currently working on [MyAnimeList](https://github.com/FantomFromUA/MyAnimeList)
 
