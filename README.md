@@ -12,7 +12,7 @@
 - 🎓 Bachelor's in **Computer Science** — National University of Uzhhorod
 - 💬 Ask me about **Java, Spring Boot, PHP, Laravel, Next.js**
 - 📫 Reach me at **erik.toroni@gmail.com**
-- ⚡ I speak: 🇬🇧 English · 🇫🇷 French · 🇺🇦 Ukrainian · 🇷🇺 Russian
+- ⚡ I speak: 🇬🇧 English · 🇫🇷 French · 🇺🇦 Ukrainian · 🏳️ Russian
 
 <br clear="right"/>
 
